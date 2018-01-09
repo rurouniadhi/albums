@@ -14,6 +14,7 @@ const styles = {
     viewStyle: {
         backgroundColor: '#b6b6b6',
         alignItems: 'center',
+        justifyContent: 'center',
         height: 60,
         position: 'relative',
         elevation: 2
